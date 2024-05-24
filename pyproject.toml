@@ -1,6 +1,6 @@
 [project]
 name = "example_package_laines5"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Sami Laine", email="sami.v.laine@aalto.fi" },
 ]
